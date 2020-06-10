@@ -1,12 +1,11 @@
 # Android files
 
 - System dotfiles:
-    - mkshrc / bashrc / zshrc etc.
-- System scripts:
-    - init.d / service.d / post-fs-data.d
-- Magisk / System zips.
+    - mkshrc & bashrc etc.
+- Magisk / System files:
     - Modules.
-    - Scripts.
+    - init.d / service.d / post-fs-data.d scripts.
 - Termux files:
     - termux-url-opener.
-    - bash.bashrc / config.fish etc.
+    - termux-file-opener.
+    - bash.bashrc & zshrc etc.
