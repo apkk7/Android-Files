@@ -6,6 +6,5 @@
     - Modules.
     - init.d, service.d, post-fs-data.d scripts.
 - **Termux files:**
-    - termux-url-opener.
-    - termux-file-opener.
+    - termux-url-opener, termux-file-opener etc.
     - bash.bashrc, zshrc etc.
